@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+*.db
+.pytest_cache/
+node_modules/
+frontend/dist/
+uploads/resumes/*
+uploads/job_descriptions/*
+!uploads/**/.gitkeep
+.venv/

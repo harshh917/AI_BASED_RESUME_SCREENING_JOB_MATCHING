@@ -1,0 +1,13 @@
+{
+  "_WARNING": "ILLUSTRATIVE labels assigned by the developer to smoke-test the evaluation code. They are NOT ground truth. Replace with labels from real recruiters before reporting any metrics. Gain scale: 0 = not relevant, 1 = partially relevant, 2 = relevant.",
+  "backend_developer.json": {
+    "aarav_sharma_strong_backend_match.pdf": 2,
+    "karan_mehta_senior_experience.pdf": 2,
+    "sneha_reddy_missing_cloud_skills.pdf": 2,
+    "ananya_gupta_no_experience.pdf": 1,
+    "priya_iyer_medium_match.pdf": 1,
+    "meera_nair_frontend_profile.pdf": 0,
+    "vikram_singh_data_scientist.pdf": 0,
+    "rohan_das_weak_match.pdf": 0
+  }
+}
